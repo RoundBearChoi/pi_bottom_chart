@@ -1,7 +1,6 @@
 import pandas as pd
 import cryptocompare
 import matplotlib.pyplot as plt
-from matplotlib.dates import date2num
 from datetime import datetime
 
 
